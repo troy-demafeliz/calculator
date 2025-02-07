@@ -35,4 +35,4 @@ A simple calculator built with HTML, CSS, and JavaScript. This calculator suppor
 - Use the `AC` button to clear all inputs.
 - Use the `←` button to remove the last digit.
 
-- Font used: [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk).
+Font used: [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk).
